@@ -1,0 +1,1 @@
+import{C as e,S as t}from"./index-CTkFav-A.js";var n=e(),r=()=>(0,n.jsxs)(`section`,{className:`obal py-40`,children:[(0,n.jsx)(`h1`,{className:`t-nadpis`,children:`Tento zájazd sme nenašli.`}),(0,n.jsx)(t,{to:`/zajazdy`,className:`tl tl-jantar mt-8`,children:`Všetky zájazdy`})]});export{r as notFoundComponent};
